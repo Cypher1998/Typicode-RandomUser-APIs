@@ -1,0 +1,20 @@
+.user {
+  border: 1px solid #444;
+  border-radius: 10px;
+}
+
+.ceo {
+  font-size: 1.2rem;
+  font-family: cursive;
+  margin: 0;
+}
+
+.phrase {
+  font-style: italic;
+  margin: 0;
+  margin-top: 5px;
+}
+
+.my-btn {
+  width: 100%;
+}
